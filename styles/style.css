@@ -27,7 +27,6 @@
 .header__title {
   width: 730px;
   margin-left: 64px;
-  z-index: 4;
   line-height: 96px;
   font-size: 102px;
   font-weight: 700;
@@ -192,7 +191,7 @@
 .table__cell_theme_dark {
   width: 200px;
   color: white;
-  margin-rigt: 0;
+  margin-right: 0;
   margin-top: 80px;
   z-index: 5;
 }
