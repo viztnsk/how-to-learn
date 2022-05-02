@@ -123,13 +123,6 @@
   font-size: 24px;
   font-weight: normal;
 }
-.table {
-  width: 1100px;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  margin: 0;
-}
 .table__cell {
   width: 250px;
   margin: 60px 0 0;
